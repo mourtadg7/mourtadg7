@@ -1,7 +1,12 @@
-## Hello!
+## About me
 
-I'm a Mathematics and Statistics 
+- Mathematics and Statistics major
+- Senior psychology TA with extensive background in Psychology, Neuoscience, & Behaviour
+- 
 
 ## Languages & Tools
 
-## Contact
+Latex, Python, R, Matlab, SAS, rmarkdown
+
+
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/gheeda-mourtada-bb774b214/)
