@@ -24,7 +24,7 @@ Welcome to my github page! I'm Gheeda Mourtada
 
 
 
-Feel free to contact me via LinkedIn or email
+Feel free to contact me via LinkedIn or email!
 
 <p>
 <a target="_blank"href="https://www.linkedin.com/in/gheeda-mourtada-bb774b214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
