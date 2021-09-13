@@ -2,9 +2,9 @@
 
 ## About Me
 
-:books: B.Sc. Honours Mathematics and Statistics with extensive background in Psychology & Neuroscience
-:woman_technologist: Senior TA in _Introductions and Foundations of Psychology, Neuroscience & Behaviour_
-:telescope: Actively seeking 
+- :books: B.Sc. Honours Mathematics and Statistics with extensive background in Psychology & Neuroscience
+- :woman_technologist: Senior TA in _Introductions and Foundations of Psychology, Neuroscience & Behaviour_
+- :telescope: Actively seeking analyst/consultant positions
 
 ## Languages & Tools
 
