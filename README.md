@@ -1,6 +1,6 @@
-## About me
+## About Me
 
-- :books: Mathematics and Statistics major 
+- :books: B.Sc. Honours Mathematics and Statistics 
 - :briefcase: Senior psychology TA with extensive background in Psychology, Neuroscience, & Behaviour 
 - 
 
