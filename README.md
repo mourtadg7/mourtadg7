@@ -1,6 +1,6 @@
 ## About Me
 
-- :books: B.Sc. Honours Mathematics and Statistics with extensive background in Psychology & Neuroscience
+:books: B.Sc. Honours Mathematics and Statistics with extensive background in Psychology & Neuroscience
 
 ## Languages & Tools
 
