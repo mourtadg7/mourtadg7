@@ -1,7 +1,7 @@
 ## About Me
 
-- :books: B.Sc. Honours Mathematics and Statistics 
-- :briefcase: Senior psychology TA with extensive background in Psychology, Neuroscience, & Behaviour 
+- :books: B.Sc. Honours Mathematics and Statistics with extensive background in Psychology & Neuroscience
+- :briefcase: Senior TA in Introduction and Foundations of Psychology, Neuorscience & Behavior 
 - 
 
 ## Languages & Tools
