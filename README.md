@@ -25,3 +25,7 @@ Welcome to my github page! I'm Gheeda Mourtada
 
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/gheeda-mourtada-bb774b214/)
+
+<a target="_blank"href="https://www.linkedin.com/in/gheeda-mourtada-bb774b214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ghida.mourtada7@gmail.com?subject=Hello%20Gheeda,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
