@@ -1,7 +1,7 @@
 ## About me
 
-- :books:Mathematics and Statistics major
-- :briefcase:Senior psychology TA with extensive background in Psychology, Neuroscience, & Behaviour
+- Mathematics and Statistics major :books:
+- Senior psychology TA with extensive background in Psychology, Neuroscience, & Behaviour :briefcase:
 - 
 
 ## Languages & Tools
