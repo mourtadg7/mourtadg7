@@ -11,7 +11,7 @@
 ![LaTex](https://img.shields.io/badge/-LaTex-008080?logo=latex&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![MATLAB FileExchange](https://img.shields.io/badge/MATLAB-FileExchange-orange.svg)
+
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
