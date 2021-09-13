@@ -1,5 +1,7 @@
 ### Hello! :wave:
 
+Welcome to my github page! I'm Gheeda Mourtada
+
 ## About Me
 
 - :books: B.Sc. Honours Mathematics and Statistics with extensive background in Psychology & Neuroscience
