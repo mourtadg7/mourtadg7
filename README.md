@@ -21,7 +21,5 @@
 ![GoogleDrive](https://img.shields.io/badge/-GoogleDrive-4285F4?logo=googledrive&logoColor=white)
 
 
-Latex, Python, R, Matlab, SAS, rmarkdown
-
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/gheeda-mourtada-bb774b214/)
